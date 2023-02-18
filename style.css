@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.menu_bar {
+    padding: 11px 0px 12px 0px;
+    margin: 40px 375px 84px;
+    width: 1170px;
+    height: 40px;
+    column-count: 2;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+}
+
+.home_meta {
+    column-count: 2;
+}
+
+.card {
+    margin: 0 0 0 39px;
+}
+
+
+.home_meta_title {
+    margin: 0 40.94px 17px 373px;
+    width: 522px;
+    height: 222px;
+    font-family: 'Gilroy-Bold';
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.home_meta_sub_title {
+    margin: 0 96.94px 37px 373px;
+    width: 466px;
+    height: 48px;
+    font-family: 'Gilroy-Medium';
+    font-size: 20px;
+    line-height: 23px;
+    color: #888888;
+
+}
+
+.home_meta_btn {
+    margin: 0 72px 0 375px;
+    width: 140px;
+    height: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+    border-radius: 50px;
+}
+
+.brand {
+    padding: 97px 0 96px 0 0;
+}
+
+.brend_logo {
+    padding: 97px 375px 96px 345px;
+}
