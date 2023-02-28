@@ -22,7 +22,7 @@ a {
 .header {
     margin-top: 40px;
     display: flex;
-    gap: 500px;
+    justify-content: space-between;
 }
 
 
